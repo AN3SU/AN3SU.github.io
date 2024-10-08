@@ -15,8 +15,8 @@ img{
 }
 
 .droite {
-    background-color: rgb(255, 255, 255);
-    height: max-content;
+    background-color: rgb(246, 246, 246);
+    height: 1100px;
 }
 .box{
     display: flex;
@@ -26,13 +26,12 @@ img{
 .photo{
     margin-left: 35px;
     margin-right: 50px;
-    margin-top: 80px;
+    margin-top: 90px;
 }
 .section{
     margin-left: 20px;
     margin-top: 50px;
     display: inline-block;
-    text-align: justify;
 }
 .info{
     margin-left: 25px;
@@ -51,6 +50,7 @@ img{
 }
 h2{
     border-bottom: 3px solid goldenrod;
+    width: 95%;
 }
 .duree{
     font-weight: normal;
@@ -59,4 +59,13 @@ h2{
 }
 #forma-gauche p{
     margin-bottom: 30px;
+}
+h1{
+    font-weight: bolder;
+    font-size: 14px;
+    padding-bottom:30px;
+    border-bottom: 3px solid white;
+    margin-bottom: 35px;
+    width: max-content;
+    
 }
